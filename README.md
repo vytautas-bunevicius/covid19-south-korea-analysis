@@ -2,6 +2,29 @@
 
 This project aims to analyze and clean COVID-19-related datasets specific to South Korea, exploring various aspects such as case distribution, patient information, time trends, demographics, and government policies. The analysis is performed on multiple dataframes, each focusing on specific aspects of the pandemic in South Korea.
 
+## Setup Guide
+
+- Install the required Python packages using the following command:
+
+            pip install -r requirements.txt
+
+- Clone the Repository
+
+            git clone https://github.com/vytautas-bunevicius/COVID19-KR.git
+
+- Navigate to Repository Directory
+
+            cd COVID19-KR
+
+- Launch Jupyter Notebook
+
+            jupyter notebook
+
+
+#### Explore the Data
+
+Open the `CourseraEDA.ipynb` notebook and embark on your data exploration journey.
+
 ## 1) Case DataFrame:
 
 ### EDA Questions:
