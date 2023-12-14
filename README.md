@@ -23,7 +23,7 @@ This project aims to analyze and clean COVID-19-related datasets specific to Sou
 
 #### Explore the Data
 
-Open the `CourseraEDA.ipynb` notebook and embark on your data exploration journey.
+Open the `COVID19-KR.ipynb` notebook and embark on your data exploration journey.
 
 ## 1) Case DataFrame:
 
