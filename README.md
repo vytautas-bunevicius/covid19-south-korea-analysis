@@ -10,11 +10,11 @@ This project aims to analyze and clean COVID-19-related datasets specific to Sou
 
 - Clone the Repository
 
-            git clone https://github.com/vytautas-bunevicius/COVID19-KR.git
+            git clone https://github.com/vytautas-bunevicius/covid19-kr-analysis.git
 
 - Navigate to Repository Directory
 
-            cd COVID19-KR
+            cd covid19-kr-analysis
 
 - Launch Jupyter Notebook
 
