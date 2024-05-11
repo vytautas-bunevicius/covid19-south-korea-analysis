@@ -4,10 +4,6 @@ This project aims to analyze and clean COVID-19-related datasets specific to Sou
 
 ## Setup Guide
 
-- Install the required Python packages using the following command:
-
-            pip install -r requirements.txt
-
 - Clone the Repository
 
             git clone https://github.com/vytautas-bunevicius/covid19-kr-analysis.git
@@ -16,6 +12,10 @@ This project aims to analyze and clean COVID-19-related datasets specific to Sou
 
             cd covid19-kr-analysis
 
+- Install the required Python packages using the following command:
+
+            pip install -r requirements.txt
+  
 - Launch Jupyter Notebook
 
             jupyter notebook
