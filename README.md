@@ -6,11 +6,11 @@ This project aims to analyze and clean COVID-19-related datasets specific to Sou
 
 - Clone the Repository
 
-            git clone https://github.com/vytautas-bunevicius/covid19-kr-analysis.git
+            git clone https://github.com/vytautas-bunevicius/covid19-south-korea-analysis.git
 
 - Navigate to Repository Directory
 
-            cd covid19-kr-analysis
+            cd covid19-south-korea-analysis
 
 - Install the required Python packages using the following command:
 
