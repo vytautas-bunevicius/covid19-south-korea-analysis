@@ -5,21 +5,21 @@ This project aims to analyze and clean COVID-19-related datasets specific to Sou
 ## Setup Guide
 
 - Clone the Repository
-
-            git clone https://github.com/vytautas-bunevicius/covid19-south-korea-analysis.git
-
+  ```
+  git clone https://github.com/vytautas-bunevicius/covid19-south-korea-analysis.git
+  ```
 - Navigate to Repository Directory
-
-            cd covid19-south-korea-analysis
-
+  ```
+  cd covid19-south-korea-analysis
+  ```
 - Install the required Python packages using the following command:
-
-            pip install -r requirements.txt
-  
+  ```
+  pip install -r requirements.txt
+  ```
 - Launch Jupyter Notebook
-
-            jupyter notebook
-
+  ```
+  jupyter notebook
+  ```
 
 ## Exploratory Data Analysis:
 
