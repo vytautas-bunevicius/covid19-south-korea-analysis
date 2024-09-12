@@ -4,7 +4,7 @@ This project aims to analyze and clean COVID-19-related datasets specific to Sou
 
 ## Setup Guide
 
-1. ****Clone the Repository
+1. **Clone the Repository**
     ```
     git clone https://github.com/vytautas-bunevicius/covid19-south-korea-analysis.git
     ```
