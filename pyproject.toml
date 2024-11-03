@@ -5,6 +5,10 @@ description = ""
 authors = ["Vytautas Bunevičius"]
 license = "Unlicense"
 readme = "README.md"
+packages = [
+    { include = "covid19_south_korea_analysis", from = "src" }
+]
+
 
 [tool.poetry.dependencies]
 python = "^3.12"
